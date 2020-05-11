@@ -1,0 +1,62 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Intel(R) HD Graphics (ID=0x102)
+    Vendor:   Intel
+    VRAM:     848 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\DatabaseControl.dll (this message is harmless)
+Loading D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\DatabaseControl.dll into Unity Child Domain
+- Completed reload, in  0.092 seconds
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\MultiplayerFPS-Tutorial-master\MultiplayerFPS\New folder\ss_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 3.940800 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1f54 -> priority: 1 
+Logged in as samarthverma
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+D3D shader create error for vertex shader [0x80070057]
+D3D shader create error for pixel shader [0x80070057]
+WARNING: Shader Unsupported: 'Hidden/CameraMotionBlurDX11' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/CameraMotionBlurDX11' - Setting to default shader.
+UnloadTime: 3.860500 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 777.
+Total: 1.348600 ms (FindLiveObjects: 0.119400 ms CreateObjectMapping: 0.075400 ms MarkObjects: 1.072200 ms  DeleteObjects: 0.044200 ms)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+MatchMakingClient ListMatches :https://mm.unet.unity3d.com/json/reply/ListMatchRequest
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
